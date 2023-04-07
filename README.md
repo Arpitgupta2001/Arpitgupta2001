@@ -1,7 +1,10 @@
 - 👋 Hi, I’m @Arpitgupta2001
 - 👀 I’m interested in Coding. 
-- 🌱 I’m currently learning Java, Data structures from C. 
-- 📫 How to reach me . Email id : arpitbansal422@gmail.com
+- 🌱 Coding in C, C++ .
+- 📫 How to reach me :
+- Email id : arpitbansal422@gmail.com
+- Linked In : arpit-gupta-b05606195
+
   
 
 <!---
